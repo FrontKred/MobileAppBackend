@@ -1,10 +1,11 @@
 import {GraphQLID, GraphQLNonNull} from 'graphql';
 
-import catalogType from "../../types/catalog/catalog";
+import {Catalog} from "../../types/catalog/";
+
 import CatalogModel from "../../../models/catalog";
 
 export default {
-    type: catalogType,
+    type: Catalog,
     args: {
         _id: {
             name: '_id',

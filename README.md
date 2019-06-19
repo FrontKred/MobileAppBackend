@@ -1,7 +1,11 @@
 ## Бэкенд для мобильного приложения
 
-### `Пару слов`
+##### React-NodeJs-JWT-Mongo-GraphQl-Docker
 
+# Старт
+В корень проекта добавить файл nodemon.js, private.key
 
-Бэкенд построен на 
-node.js, mongoDB, graphql, плюс Docker
+Установить зависимости
+```sh
+npm install or yarn install
+```

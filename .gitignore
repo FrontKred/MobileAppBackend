@@ -30,6 +30,8 @@ build/
 local.properties
 *.iml
 
+nodemon.json
+private.key
 ios
 __tests__
 # node.js
